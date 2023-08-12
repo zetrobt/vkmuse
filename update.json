@@ -6,5 +6,6 @@
 	"CancelButton": "Отменить",
 	"cancelable": "true",
 	"link": "https://google.com",
-	"version": "1.1"
+	"version": "1.2",
+	"beta": "true"
 }
