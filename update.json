@@ -1,10 +1,10 @@
 {
 	"visibility": "true",
 	"title": "Найдено обновление!",
-	"description": "test",
+	"description": "— Музыка друзей\n— Уведомление плеера",
 	"OkButton": "Обновить",
 	"CancelButton": "Отменить",
-	"cancelable": "true",
+	"cancelable": "false",
 	"link": "https://google.com",
 	"version": "1.1",
 	"beta": "false"
