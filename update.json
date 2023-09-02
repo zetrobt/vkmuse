@@ -1,7 +1,7 @@
 {
 	"visibility": "true",
 	"title": "Найдено обновление!",
-	"description": "— Музыка друзей\n— Уведомление плеера",
+	"description": "Добавлено:\n— Музыка друзей\n— Уведомления плеера",
 	"OkButton": "Обновить",
 	"CancelButton": "Отменить",
 	"cancelable": "false",
