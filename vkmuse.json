@@ -1,0 +1,10 @@
+{
+	"visibility": "true",
+	"title": "Найдено обновление!",
+	"description": "Empty",
+	"OkButton": "Обновить",
+	"CancelButton": "Отменить",
+	"cancelable": "false",
+	"link": "https://t.me/vkmusex/0",
+	"version": "2.0.0 Beta"
+}
